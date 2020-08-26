@@ -85,7 +85,7 @@ ul {
  
 }
 li {
-   display: inline-block;
+   display: inline-flex;
    float: left;
    margin: 5px;
 }
